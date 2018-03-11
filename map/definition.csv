@@ -695,7 +695,7 @@
 694;3;96;170;sea;false;ocean;1
 695;3;96;225;sea;false;ocean;2
 696;3;99;85;sea;false;ocean;1
-697;3;99;90;sea;false;ocean;5
+697;3;99;90;land;false;plains;5
 698;3;99;135;sea;false;ocean;1
 699;3;102;50;sea;false;ocean;1
 700;3;102;155;sea;false;ocean;1
@@ -5178,7 +5178,7 @@
 5177;52;93;63;sea;false;ocean;5
 5178;52;96;28;sea;false;ocean;3
 5179;52;99;93;sea;false;ocean;3
-5180;52;102;58;sea;false;ocean;5
+5180;52;102;58;land;false;plains;5
 5181;52;102;163;sea;true;ocean;4
 5182;52;105;23;sea;false;ocean;3
 5183;52;105;128;sea;true;ocean;4
@@ -10536,7 +10536,7 @@
 10535;134;12;4;sea;false;ocean;2
 10536;134;12;49;sea;false;ocean;6
 10537;134;12;154;sea;false;ocean;6
-10538;134;15;14;sea;false;ocean;5
+10538;134;15;14;land;false;plains;5
 10539;134;15;69;sea;false;ocean;6
 10540;134;15;219;sea;true;ocean;6
 10541;134;18;34;sea;false;ocean;6
@@ -10928,7 +10928,7 @@
 10927;136;6;84;sea;false;ocean;4
 10928;136;6;134;sea;true;ocean;5
 10929;136;9;49;sea;false;ocean;5
-10930;136;12;14;sea;false;ocean;5
+10930;136;12;14;land;false;plains;5
 10931;136;15;79;sea;false;ocean;3
 10932;136;18;44;sea;false;ocean;5
 10933;136;18;149;sea;true;ocean;3
@@ -10970,7 +10970,7 @@
 10969;136;96;99;sea;false;ocean;4
 10970;136;96;149;sea;false;ocean;3
 10971;136;99;64;sea;true;ocean;4
-10972;136;102;29;sea;false;ocean;5
+10972;136;102;29;land;false;plains;5
 10973;136;105;94;sea;false;ocean;3
 10974;136;108;59;sea;true;ocean;4
 10975;136;108;164;sea;false;ocean;3
@@ -12389,7 +12389,7 @@
 12388;175;93;177;sea;false;ocean;6
 12389;175;95;47;sea;true;ocean;0
 12390;175;96;37;sea;false;ocean;6
-12391;175;96;92;sea;false;ocean;5
+12391;175;96;92;land;false;plains;5
 12392;175;96;142;sea;false;ocean;6
 12393;175;99;2;sea;false;ocean;6
 12394;175;99;57;sea;false;ocean;3
@@ -12675,7 +12675,7 @@
 12674;176;183;42;sea;true;ocean;1
 12675;176;183;97;sea;false;ocean;6
 12676;176;183;147;sea;false;ocean;2
-12677;176;186;7;sea;false;ocean;5
+12677;176;186;7;land;false;plains;5
 12678;176;186;62;sea;false;ocean;6
 12679;176;186;212;sea;false;ocean;6
 12680;176;189;27;sea;true;ocean;2
